@@ -10,7 +10,7 @@ Dans cet exemple on va simplemmemnt utiliser et tester les commandes de base de 
 
 * La première étape est de creer son compte sur google app engine.
 Aller dans le tableau de commande et créer un nouveau projet.
-(Adresses du dashboard, il faut etre enregistré)[https://console.cloud.google.com/home/]
+[Adresses du dashboard, il faut etre enregistré](https://console.cloud.google.com/home/)
 * Aller dans la barre d'outils et cliquer sur nouveau  projet, rentrer les informations demandées
 * La base du projet est maintenant crée, il fautle sélectionner dans la lsite des projets, ici le projet sera appelé "VirtualisationnTuto".
 
@@ -28,13 +28,13 @@ Aller dans le tableau de commande et créer un nouveau projet.
 
 ## Mise en Production
 
-* Il faut se rendre à la age (De anageent des ressources. )[https://console.cloud.google.com/appengine?project=flaskapi-204813&serviceId=default&duration=PT1H]
+* Il faut se rendre à la age [De anageent des ressources. ](https://console.cloud.google.com/appengine?project=flaskapi-204813&serviceId=default&duration=PT1H)
 
 
 
 * Pour déloyer le serveur ´gcloud app deploy app.yaml --project flaskapi-204813´
 
-* (Aller à ce lien pour voir l'aplication en production )[https://flaskapi-204813.appspot.com/]
+* Aller à ce [lien pour voir l'aplication en production](https://flaskapi-204813.appspot.com/)
 
 
 
