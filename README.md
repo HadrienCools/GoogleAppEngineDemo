@@ -18,9 +18,9 @@ Aller dans le tableau de commande et créer un nouveau projet.
 
 * Une fois connecté au cloud shell, il est popssible d'interagir avec celui ci, on est en réalité connecté avec une mamchine virtuelle située sur le cloud de google. 
 
-* se rendre dans l'exemple de flask ´cd ~/src/flaskapi-204813/python_gae_quickstart_editor-2018-05-21-15-10/appengine/standard/flask/hello_world´
+* se rendre dans l'exemple de flask ´ cd ~/src/flaskapi-204813/python_gae_quickstart_editor-2018-05-21-15-10/appengine/standard/flask/hello_world ´
 
-* Lancer le serveur de test ´ dev_appserver.py $PWD´
+* Lancer le serveur de test ´ dev_appserver.py $PWD ´
 
 * Il est possible deconfigurer son environnemmment comme bon nous seble et d'installer ses pakages. 
 
@@ -32,7 +32,7 @@ Aller dans le tableau de commande et créer un nouveau projet.
 
 
 
-* Pour déloyer le serveur ´gcloud app deploy app.yaml --project flaskapi-204813´
+* Pour déloyer le serveur ´ gcloud app deploy app.yaml --project flaskapi-204813 ´
 
 * Aller à ce [lien pour voir l'aplication en production](https://flaskapi-204813.appspot.com/)
 
